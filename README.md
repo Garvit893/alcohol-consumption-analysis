@@ -69,4 +69,4 @@ Based on the findings, the project concludes with actionable recommendations for
 
 ---
 
-**Contact:** [Garvit Ghiya] | [Linkedin](https://www.linkedin.com/in/garvit-ghiya/) | [Mail](garvit893@gmail.com)
+**Contact:** Garvit Ghiya | [Linkedin](https://www.linkedin.com/in/garvit-ghiya/) | [Mail](garvit893@gmail.com)
