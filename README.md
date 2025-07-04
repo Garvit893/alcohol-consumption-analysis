@@ -40,6 +40,7 @@ The analysis involves data cleaning, merging multiple datasets, feature engineer
 
 ### 1. India's Consumption is Low but Growing Fast
 While India ranks in the lower half of countries for per-capita consumption, its growth trajectory since 2005 has been significantly steeper than the stable global average.
+
 <img src="images/The Global Landscape of Alcohol Consumption.png" alt= "India Vs Global Consumption."/>
 
 
@@ -49,6 +50,7 @@ While India ranks in the lower half of countries for per-capita consumption, its
 
 ### 2. A Hyper-Gendered Consumption Model
 The national average in India masks a reality of two extremes: a male population with an intense, late-peaking consumption lifecycle and a female population with historically negligible participation. This creates one of the largest gender consumption gaps in the world.
+
 <img src="images/Age and Alcohol Consumption in World.png" alt= "Age and Alcohol Consumption in World (Gender Based)"/>
 
 
